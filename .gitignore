@@ -1,0 +1,16 @@
+# Binaries and executables
+localdev
+*.exe
+
+# Local config examples (if sensitive)
+config.yaml
+
+# Go test/build artifacts
+*.test
+*.prof
+*.cover
+
+# OS/Editor files
+.DS_Store
+*.swp
+*.swo
